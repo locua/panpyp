@@ -1,4 +1,4 @@
-# Pandoc/python static site generator
+# Panpyp static site generator
 
 The best of python, pandoc (haskell) and shell all in one. Should work with a standard full python installation without requiring `pip install`. Made for ease of use and development due to python's built in string manipulation functions. Pandoc and python are widely used hopefully lending to the longevity of this code.
 
